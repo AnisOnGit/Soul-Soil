@@ -1,12 +1,21 @@
-# React + Vite
+<h1>🌿 Eco-Adventure Booking App</h1>
+<p>A React-based single-page application for exploring and booking eco-friendly adventures with authentication and private routing.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>🚀 Key Features</h2>
+<ul>
+  <li>🔐 Firebase Auth (Email/Password & Google)</li>
+  <li>🎫 Private Routes with session persistence</li>
+  <li>🖼️ Dynamic adventure cards from JSON data</li>
+  <li>📞 Time-based “Talk with Expert” via Google Meet</li>
+  <li>👤 Profile view & update functionality</li>
+  <li>🧠 Password validation & forget password flow</li>
+  <li>🎨 Animate.css animations + dynamic page titles</li>
+</ul>
 
-Currently, two official plugins are available:
+<h2>🛠 Tech Stack</h2>
+<p>React, Tailwind CSS, Daisy UI, Firebase, Animate.css</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h2>🖼️ Screenshots</h2>
+![image](https://github.com/user-attachments/assets/aca05c2b-aa37-4ae3-9f44-1bec32334f4c)
+![image](https://github.com/user-attachments/assets/bce65679-d2e8-47ba-ad21-50aef85a0470)
+![image](https://github.com/user-attachments/assets/c17fc452-9ba0-40a8-961a-935aa1326148)
