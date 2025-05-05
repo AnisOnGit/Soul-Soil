@@ -16,6 +16,6 @@
 <p>React, Tailwind CSS, Daisy UI, Firebase, Animate.css</p>
 
 <h2>🖼️ Screenshots</h2>
-![image](https://github.com/user-attachments/assets/aca05c2b-aa37-4ae3-9f44-1bec32334f4c)
-![image](https://github.com/user-attachments/assets/bce65679-d2e8-47ba-ad21-50aef85a0470)
-![image](https://github.com/user-attachments/assets/c17fc452-9ba0-40a8-961a-935aa1326148)
+<img src="https://github.com/user-attachments/assets/aca05c2b-aa37-4ae3-9f44-1bec32334f4c" alt="" />
+<img src="https://github.com/user-attachments/assets/bce65679-d2e8-47ba-ad21-50aef85a0470" alt="" />
+<img src="https://github.com/user-attachments/assets/c17fc452-9ba0-40a8-961a-935aa1326148" alt="" />
